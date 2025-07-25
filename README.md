@@ -48,7 +48,7 @@ This repository contains my submission for the **Electronic Arts (EA) Software E
 ## 📜 Certificate of Completion
 
 <p align="center">
-  <img src="certificate.png" alt="EA Software Engineer Certificate" width="70%" />
+  <img src="https://github.com/Mors666/EA-Software-Engineer-Virtual-Experience/blob/main/Software%20Engineering%20Job%20Simulation%20EA.png?raw=true" alt="EA Software Engineer Certificate" width="70%" />
 </p>
 
 ---
